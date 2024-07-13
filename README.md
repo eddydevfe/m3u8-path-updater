@@ -5,7 +5,8 @@ This script update paths in old .m3u8 playlists.
 # Requirements
 
 Make sure you have Node.js installed on your computer to use this script.
-Setup
+
+# Setup
 
 - Edit these variables at the beginning of the script:
 
