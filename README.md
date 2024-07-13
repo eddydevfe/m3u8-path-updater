@@ -8,7 +8,7 @@ Make sure you have Node.js installed on your computer to use this script.
 
 # Setup
 
-- Edit these variables at the beginning of the script:
+## Edit these variables at the beginning of the script:
 
 * targetDirectory: Where your current .m3u8 files are located.
 * outputDirectory: Where you want the updated .m3u8 files to go.
